@@ -1,0 +1,14 @@
+
+---
+
+# 📘 `requirements.txt`
+
+```txt
+pandas
+numpy
+matplotlib
+seaborn
+Pillow
+tqdm
+scikit-learn
+tensorflow==2.15.0
