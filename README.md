@@ -72,6 +72,8 @@ The goal is to develop a model that can recognize weather patterns from raw imag
 
 *(<img width="647" height="237" alt="Acc before improv" src="https://github.com/user-attachments/assets/4ca1f5cf-5a39-4b35-b73a-88c6dec003cb" />
 )*
+*(<img width="754" height="351" alt="Misclassified imgs" src="https://github.com/user-attachments/assets/adee1495-f166-4aa9-badd-767d41b9d05f" />
+)*
 
 ---
 
